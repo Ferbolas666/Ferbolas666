@@ -43,10 +43,9 @@
 
 ## 💬 Fale comigo
 
-📬 **Email:** em breve  
+📬 **Email:** maatheuss.celestinoo@gmail.com  
 💼 **LinkedIn:** em breve  
 🐙 **GitHub:** [Ferbolas666](https://github.com/Ferbolas666)  
-🎮 Discord: Ferbolas666#XXXX *(me avisa se quiser que eu coloque seu usuário real aqui!)*
 
 ---
 
