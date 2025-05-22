@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Matheus
+# 👋 Olá! Eu sou o Ferbolas666
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=1000&lines=Desenvolvedor+Full+Stack+apaixonado+por+tecnologia+e+criatividade!;23+anos+%7C+Amante+de+animes+%7C+Trabalho+em+equipe+%F0%9F%92%AA;Explorando+novas+ideias+e+criando+solu%C3%A7%C3%B5es+incr%C3%ADveis!)](https://git.io/typing-svg)
 
@@ -43,23 +43,23 @@
 
 ## 💬 Fale comigo
 
-📬 **Email:** maatheuss.celestinoo@gmail.com  
+📬 **Email:** em breve  
 💼 **LinkedIn:** em breve  
 🐙 **GitHub:** [Ferbolas666](https://github.com/Ferbolas666)  
+🎮 Discord: Ferbolas666#XXXX
 
 ---
 
-## ⚡ Curiosidades
+## 📊 Minhas estatísticas no GitHub
 
-- 🎨 Me inspiro muito em animes e games para projetos visuais.
-- 🧩 Gosto de resolver problemas complexos com soluções simples e elegantes.
-- 🍜 Sou movido a café e ideias malucas que viram código às 3 da manhã.
+<div align="center">
+
+![Ferbolas666's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ferbolas666&show_icons=true&theme=tokyonight&hide_title=true&hide_rank=false)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferbolas666&layout=compact&theme=tokyonight)
+
+</div>
 
 ---
 
-> “Codar é como criar um universo do zero… só que com mais bugs.” – Eu mesmo 👨‍💻
-
----
-
-### Obrigado pela visita! ⭐  
-Sinta-se à vontade para explorar meus projetos ou mandar um "oi"!  
+⭐ Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios.
