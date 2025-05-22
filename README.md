@@ -58,6 +58,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferbolas666&layout=compact&theme=tokyonight)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ferbolas666&theme=tokyonight)
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ferbolas666&theme=tokyonight)
+
 </div>
 
 ---
