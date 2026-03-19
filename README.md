@@ -1,8 +1,8 @@
 # Matheus Celestino
 
-Desenvolvedor focado em sistemas de produção, com experiência em integração entre serviços, manipulação de dados e construção de soluções escaláveis.
+Desenvolvedor de software com atuação em aplicações Web, Desktop e Mobile, focado em sistemas de produção, integração de serviços e manipulação de dados.
 
-Trabalho principalmente com aplicações comerciais, APIs e comunicação entre ambientes locais e nuvem.
+Atualmente trabalho na empresa **Versátil (Andradina - SP)** desenvolvendo soluções comerciais completas para diferentes ambientes.
 
 ---
 
@@ -13,10 +13,12 @@ Trabalho principalmente com aplicações comerciais, APIs e comunicação entre 
 - Node.js
 - Rust
 
-**Front-end / Mobile**
-- Flutter (Dart)
+**Front-end / Web**
 - JavaScript
 - HTML / CSS
+
+**Mobile**
+- Flutter (Dart)
 
 **Banco de dados**
 - PostgreSQL
@@ -30,13 +32,26 @@ Trabalho principalmente com aplicações comerciais, APIs e comunicação entre 
 
 ---
 
+## Experiência
+
+**Versátil — Andradina/SP**  
+Desenvolvimento de sistemas comerciais com atuação em múltiplas plataformas:
+
+- Aplicações Web para gestão e operação
+- Sistemas Desktop para uso interno e automação
+- Aplicações Mobile com foco em usabilidade e performance
+- Integração entre sistemas locais e serviços na nuvem
+- Manipulação e sincronização de dados entre ambientes distribuídos
+
+---
+
 ## O que eu faço
 
 - Desenvolvimento de APIs e serviços backend
-- Integração entre sistemas locais e cloud
+- Integração entre sistemas e bancos de dados
 - Sincronização e replicação de dados
-- Aplicações mobile com Flutter
-- Otimização de performance e fluxo de dados
+- Desenvolvimento de aplicações Web e Mobile
+- Otimização de performance em aplicações reais
 
 ---
 
@@ -44,7 +59,7 @@ Trabalho principalmente com aplicações comerciais, APIs e comunicação entre 
 
 - Construindo APIs em Go para comunicação entre sistemas
 - Trabalhando com sincronização de bancos distribuídos
-- Explorando uso de LLMs locais em aplicações reais
+- Explorando uso de LLMs locais em aplicações práticas
 
 ---
 
