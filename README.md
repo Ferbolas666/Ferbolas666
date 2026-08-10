@@ -1,6 +1,7 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,100:00ADD8&height=220&section=header&text=Matheus%20Celestino&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20%E2%80%94%20Web%20%C2%B7%20Desktop%20%C2%B7%20Mobile&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1B2A,100:00ADD8&height=240&section=header&text=Matheus%20Celestino&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%C2%B7%20Web%20%C2%B7%20Desktop%20%C2%B7%20Mobile&descAlignY=56&descSize=19&stroke=00ADD8&strokeWidth=1.2" width="100%"/>
+  
+  <br>
 
 Construo sistemas de produção, integrações entre serviços e soluções de sincronização de dados distribuídos.
 Atualmente na **Versátil** (Andradina - SP), desenvolvendo soluções comerciais completas.
