@@ -13,14 +13,6 @@ Atualmente na **Versátil** (Andradina - SP), desenvolvendo soluções comerciai
 
 <br>
 
-## 🧭 Sobre mim
-
-Sou desenvolvedor Full Stack com foco em sistemas robustos para ambientes de produção. Trabalho tanto na construção de APIs e serviços backend quanto em interfaces Web, Desktop e Mobile, sempre buscando performance, confiabilidade e boa arquitetura.
-
-No dia a dia, lido com integração entre sistemas locais e cloud, replicação de dados distribuídos e, mais recentemente, aplicação de LLMs locais em sistemas reais.
-
-<br>
-
 ## ⚙️ Stack principal
 
 <div align="center">
