@@ -15,49 +15,21 @@ Atualmente na **Versátil** (Andradina - SP), desenvolvendo soluções comerciai
 
 ## ⚙️ Stack principal
 
-<table align="center">
-<tr>
-<td bgcolor="#0D1B2A" align="center">
-<br/>
-
-<img title="Go" alt="Go" src="https://img.shields.io/badge/Go-0D1B2A?style=flat-square&logo=go&logoColor=00ADD8&labelColor=0D1B2A"/>
-<img title="TypeScript" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0D1B2A?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=0D1B2A"/>
-<img title="React" alt="React" src="https://img.shields.io/badge/React-0D1B2A?style=flat-square&logo=react&logoColor=61DAFB&labelColor=0D1B2A"/>
-<img title="C#" alt="C#" src="https://img.shields.io/badge/C%23-0D1B2A?style=flat-square&logo=csharp&logoColor=9B4F96&labelColor=0D1B2A"/>
-<img title="JavaScript" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0D1B2A?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=0D1B2A"/>
-<img title="Node.js" alt="Node.js" src="https://img.shields.io/badge/Node.js-0D1B2A?style=flat-square&logo=node.js&logoColor=339933&labelColor=0D1B2A"/>
-<br/>
-<img title="Dart" alt="Dart" src="https://img.shields.io/badge/Dart-0D1B2A?style=flat-square&logo=dart&logoColor=0175C2&labelColor=0D1B2A"/>
-<img title="Flutter" alt="Flutter" src="https://img.shields.io/badge/Flutter-0D1B2A?style=flat-square&logo=flutter&logoColor=02569B&labelColor=0D1B2A"/>
-<img title="PostgreSQL" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0D1B2A?style=flat-square&logo=postgresql&logoColor=4169E1&labelColor=0D1B2A"/>
-<img title="Docker" alt="Docker" src="https://img.shields.io/badge/Docker-0D1B2A?style=flat-square&logo=docker&logoColor=2496ED&labelColor=0D1B2A"/>
-<img title="Linux" alt="Linux" src="https://img.shields.io/badge/Linux-0D1B2A?style=flat-square&logo=linux&logoColor=FCC624&labelColor=0D1B2A"/>
-
-<br/><br/>
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,typescript,react,cs,js,nodejs,dart,flutter,postgresql,docker,linux&theme=dark&perline=6" />
+  </a>
+</p>
 
 <br>
 
 ## 🧩 Outras tecnologias e experiências
 
-<table align="center">
-<tr>
-<td bgcolor="#0D1B2A" align="center">
-<br/>
-
-<img title="PHP" alt="PHP" src="https://img.shields.io/badge/PHP-0D1B2A?style=flat-square&logo=php&logoColor=777BB4&labelColor=0D1B2A"/>
-<img title="Visual Basic" alt="Visual Basic" src="https://img.shields.io/badge/Visual_Basic-0D1B2A?style=flat-square&logo=visualstudio&logoColor=5C2D91&labelColor=0D1B2A"/>
-<img title="Firebird" alt="Firebird" src="https://img.shields.io/badge/Firebird-0D1B2A?style=flat-square&logo=firebird&logoColor=F94A29&labelColor=0D1B2A"/>
-<img title="MySQL" alt="MySQL" src="https://img.shields.io/badge/MySQL-0D1B2A?style=flat-square&logo=mysql&logoColor=4479A1&labelColor=0D1B2A"/>
-<img title="Python" alt="Python" src="https://img.shields.io/badge/Python-0D1B2A?style=flat-square&logo=python&logoColor=3776AB&labelColor=0D1B2A"/>
-<img title="Rust" alt="Rust" src="https://img.shields.io/badge/Rust-0D1B2A?style=flat-square&logo=rust&logoColor=ffffff&labelColor=0D1B2A"/>
-
-<br/><br/>
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,visualbasic,firebird,mysql,python,rust&theme=dark&perline=6" />
+  </a>
+</p>
 
 <br>
 
