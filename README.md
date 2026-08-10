@@ -15,7 +15,10 @@ Atualmente na **Versátil** (Andradina - SP), desenvolvendo soluções comerciai
 
 ## ⚙️ Stack principal
 
-<div align="center">
+<table align="center">
+<tr>
+<td bgcolor="#0D1B2A" align="center">
+<br/>
 
 <img title="Go" alt="Go" src="https://img.shields.io/badge/Go-0D1B2A?style=flat-square&logo=go&logoColor=00ADD8&labelColor=0D1B2A"/>
 <img title="TypeScript" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0D1B2A?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=0D1B2A"/>
@@ -30,13 +33,19 @@ Atualmente na **Versátil** (Andradina - SP), desenvolvendo soluções comerciai
 <img title="Docker" alt="Docker" src="https://img.shields.io/badge/Docker-0D1B2A?style=flat-square&logo=docker&logoColor=2496ED&labelColor=0D1B2A"/>
 <img title="Linux" alt="Linux" src="https://img.shields.io/badge/Linux-0D1B2A?style=flat-square&logo=linux&logoColor=FCC624&labelColor=0D1B2A"/>
 
-</div>
+<br/><br/>
+</td>
+</tr>
+</table>
 
 <br>
 
 ## 🧩 Outras tecnologias e experiências
 
-<div align="center">
+<table align="center">
+<tr>
+<td bgcolor="#0D1B2A" align="center">
+<br/>
 
 <img title="PHP" alt="PHP" src="https://img.shields.io/badge/PHP-0D1B2A?style=flat-square&logo=php&logoColor=777BB4&labelColor=0D1B2A"/>
 <img title="Visual Basic" alt="Visual Basic" src="https://img.shields.io/badge/Visual_Basic-0D1B2A?style=flat-square&logo=visualstudio&logoColor=5C2D91&labelColor=0D1B2A"/>
@@ -45,7 +54,10 @@ Atualmente na **Versátil** (Andradina - SP), desenvolvendo soluções comerciai
 <img title="Python" alt="Python" src="https://img.shields.io/badge/Python-0D1B2A?style=flat-square&logo=python&logoColor=3776AB&labelColor=0D1B2A"/>
 <img title="Rust" alt="Rust" src="https://img.shields.io/badge/Rust-0D1B2A?style=flat-square&logo=rust&logoColor=ffffff&labelColor=0D1B2A"/>
 
-</div>
+<br/><br/>
+</td>
+</tr>
+</table>
 
 <br>
 
