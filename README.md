@@ -1,11 +1,13 @@
 <div align="center">
 
-# Olá, eu sou o Matheus Celestino 👋
-
-### Desenvolvedor Full Stack — Web · Desktop · Mobile
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,100:00ADD8&height=220&section=header&text=Matheus%20Celestino&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20%E2%80%94%20Web%20%C2%B7%20Desktop%20%C2%B7%20Mobile&descAlignY=58&descSize=18" width="100%"/>
 
 Construo sistemas de produção, integrações entre serviços e soluções de sincronização de dados distribuídos.
 Atualmente na **Versátil** (Andradina - SP), desenvolvendo soluções comerciais completas.
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Go+%2B+TypeScript+%2B+React;Sistemas+Desktop+e+Mobile;Integra%C3%A7%C3%A3o+e+Sincroniza%C3%A7%C3%A3o+de+Dados;LLMs+locais+aplicados+a+sistemas+reais" alt="Typing SVG" />
 
 </div>
 
@@ -23,17 +25,7 @@ No dia a dia, lido com integração entre sistemas locais e cloud, replicação 
 
 <div align="center">
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<img src="https://skillicons.dev/icons?i=go,ts,react,cs,js,nodejs,dart,flutter,postgres,docker,linux&theme=dark&perline=6" />
 
 </div>
 
@@ -43,12 +35,9 @@ No dia a dia, lido com integração entre sistemas locais e cloud, replicação 
 
 <div align="center">
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Visual Basic](https://img.shields.io/badge/Visual%20Basic-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
-![Firebird](https://img.shields.io/badge/Firebird-F94A29?style=flat-square&logo=firebird&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+<img src="https://skillicons.dev/icons?i=php,vscode,mysql,py,rust&theme=dark&perline=6" />
+
+<sub>+ Visual Basic · Firebird</sub>
 
 </div>
 
@@ -91,13 +80,24 @@ No dia a dia, lido com integração entre sistemas locais e cloud, replicação 
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Ferbolas666&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ferbolas666&show_icons=true&hide_border=true&hide_title=true&bg_color=0D1B2A&title_color=00ADD8&icon_color=00ADD8&text_color=c9d1d9&border_radius=12&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferbolas666&layout=compact&hide_border=true&hide_title=true&bg_color=0D1B2A&title_color=00ADD8&text_color=c9d1d9&border_radius=12&langs_count=8" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferbolas666&layout=compact&theme=tokyonight&hide_border=true)
+<br><br>
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ferbolas666&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ferbolas666&hide_border=true&background=0D1B2A&ring=00ADD8&fire=00ADD8&currStreakLabel=00ADD8&sideNums=c9d1d9&currStreakNum=ffffff&sideLabels=c9d1d9&dates=6c7086&border_radius=12" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ferbolas666&theme=react-dark&bg_color=0D1B2A&color=00ADD8&line=00ADD8&point=ffffff&hide_border=true&area=true&border_radius=12" width="100%"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ferbolas666&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
 </div>
+
+> 💡 Se algum card acima não carregar de primeira, dê um refresh — os serviços do `vercel.app` às vezes demoram para "acordar" (cold start) ou passam por cache do GitHub.
 
 <br>
 
