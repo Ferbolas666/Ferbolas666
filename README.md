@@ -25,7 +25,18 @@ No dia a dia, lido com integração entre sistemas locais e cloud, replicação 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=go,ts,react,cs,js,nodejs,dart,flutter,postgres,docker,linux&theme=dark&perline=6" />
+<img title="Go" alt="Go" src="https://img.shields.io/badge/Go-0D1B2A?style=flat-square&logo=go&logoColor=00ADD8&labelColor=0D1B2A"/>
+<img title="TypeScript" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0D1B2A?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=0D1B2A"/>
+<img title="React" alt="React" src="https://img.shields.io/badge/React-0D1B2A?style=flat-square&logo=react&logoColor=61DAFB&labelColor=0D1B2A"/>
+<img title="C#" alt="C#" src="https://img.shields.io/badge/C%23-0D1B2A?style=flat-square&logo=csharp&logoColor=9B4F96&labelColor=0D1B2A"/>
+<img title="JavaScript" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0D1B2A?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=0D1B2A"/>
+<img title="Node.js" alt="Node.js" src="https://img.shields.io/badge/Node.js-0D1B2A?style=flat-square&logo=node.js&logoColor=339933&labelColor=0D1B2A"/>
+<br/>
+<img title="Dart" alt="Dart" src="https://img.shields.io/badge/Dart-0D1B2A?style=flat-square&logo=dart&logoColor=0175C2&labelColor=0D1B2A"/>
+<img title="Flutter" alt="Flutter" src="https://img.shields.io/badge/Flutter-0D1B2A?style=flat-square&logo=flutter&logoColor=02569B&labelColor=0D1B2A"/>
+<img title="PostgreSQL" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0D1B2A?style=flat-square&logo=postgresql&logoColor=4169E1&labelColor=0D1B2A"/>
+<img title="Docker" alt="Docker" src="https://img.shields.io/badge/Docker-0D1B2A?style=flat-square&logo=docker&logoColor=2496ED&labelColor=0D1B2A"/>
+<img title="Linux" alt="Linux" src="https://img.shields.io/badge/Linux-0D1B2A?style=flat-square&logo=linux&logoColor=FCC624&labelColor=0D1B2A"/>
 
 </div>
 
@@ -35,9 +46,12 @@ No dia a dia, lido com integração entre sistemas locais e cloud, replicação 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,vscode,mysql,py,rust&theme=dark&perline=6" />
-
-<sub>+ Visual Basic · Firebird</sub>
+<img title="PHP" alt="PHP" src="https://img.shields.io/badge/PHP-0D1B2A?style=flat-square&logo=php&logoColor=777BB4&labelColor=0D1B2A"/>
+<img title="Visual Basic" alt="Visual Basic" src="https://img.shields.io/badge/Visual_Basic-0D1B2A?style=flat-square&logo=visualstudio&logoColor=5C2D91&labelColor=0D1B2A"/>
+<img title="Firebird" alt="Firebird" src="https://img.shields.io/badge/Firebird-0D1B2A?style=flat-square&logo=firebird&logoColor=F94A29&labelColor=0D1B2A"/>
+<img title="MySQL" alt="MySQL" src="https://img.shields.io/badge/MySQL-0D1B2A?style=flat-square&logo=mysql&logoColor=4479A1&labelColor=0D1B2A"/>
+<img title="Python" alt="Python" src="https://img.shields.io/badge/Python-0D1B2A?style=flat-square&logo=python&logoColor=3776AB&labelColor=0D1B2A"/>
+<img title="Rust" alt="Rust" src="https://img.shields.io/badge/Rust-0D1B2A?style=flat-square&logo=rust&logoColor=ffffff&labelColor=0D1B2A"/>
 
 </div>
 
@@ -80,8 +94,8 @@ No dia a dia, lido com integração entre sistemas locais e cloud, replicação 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ferbolas666&show_icons=true&hide_border=true&hide_title=true&bg_color=0D1B2A&title_color=00ADD8&icon_color=00ADD8&text_color=c9d1d9&border_radius=12&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferbolas666&layout=compact&hide_border=true&hide_title=true&bg_color=0D1B2A&title_color=00ADD8&text_color=c9d1d9&border_radius=12&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ferbolas666&show_icons=true&hide_border=true&hide_title=true&bg_color=0D1B2A&title_color=00ADD8&icon_color=00ADD8&text_color=c9d1d9&border_radius=12&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferbolas666&layout=compact&hide_border=true&hide_title=true&bg_color=0D1B2A&title_color=00ADD8&text_color=c9d1d9&border_radius=12&langs_count=8" />
 
 <br><br>
 
@@ -91,13 +105,9 @@ No dia a dia, lido com integração entre sistemas locais e cloud, replicação 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ferbolas666&theme=react-dark&bg_color=0D1B2A&color=00ADD8&line=00ADD8&point=ffffff&hide_border=true&area=true&border_radius=12" width="100%"/>
 
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ferbolas666&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
-
 </div>
 
-> 💡 Se algum card acima não carregar de primeira, dê um refresh — os serviços do `vercel.app` às vezes demoram para "acordar" (cold start) ou passam por cache do GitHub.
+> 💡 Se o card de **Stats** ou **Top Langs** não aparecer, é um problema conhecido do serviço público `github-readme-stats.vercel.app`, que fica sobrecarregado (muita gente usando a mesma instância grátis). A correção definitiva é fazer um fork do [repositório oficial](https://github.com/anuraghazra/github-readme-stats) e publicar sua própria instância no Vercel (gratuito, leva 2 minutos) — aí é só trocar o domínio nas URLs acima. Streak e Activity Graph costumam ser mais estáveis.
 
 <br>
 
